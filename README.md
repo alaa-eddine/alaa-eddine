@@ -58,11 +58,9 @@ _Software Architect • Building cool things since 1998_
 - 🧵 **[tokenloom](https://github.com/alaa-eddine/tokenloom)**
   Parse LLM/SSE text streams progressively into structured events - tags, code blocks, plugins
 
-- 📄 **[iSafePDF](https://github.com/alaa-eddine/iSafePDF)**  
-  Digital signing, encrypting, and managing metadata of PDF documents.
+- 📄 **[iSafePDF](https://github.com/alaa-eddine/iSafePDF)** Digital signing, encrypting, and managing metadata of PDF documents.
 
-- 🔗 **[Linc](https://github.com/alaa-eddine/Linc)**  
-  LINC a simplistic blockchain miner for educational purposes.
+- 🔗 **[Linc](https://github.com/alaa-eddine/Linc)** LINC a simplistic blockchain miner for educational purposes.
 
 - ⚡ **[eee](https://github.com/Ezelia/eee)**
   Ezelia Entities Engine - ECS library powering the Ezelia game engine
