@@ -34,97 +34,72 @@ _Software Architect • Building cool things since 1998_
 
 ## Projects
 
-🔍 **[pdbg](https://github.com/vibe-archi/pdbg)**
-LLM-Human Pair debugging tool for Node.js & browser - CLI + web UI + AI agent support  
-`TypeScript`
+- 🔍 **[pdbg](https://github.com/vibe-archi/pdbg)**
+  LLM-Human Pair debugging tool for Node.js & browser - CLI + web UI + AI agent support
 
-📈 **[PineTS](https://github.com/alaa-eddine/PineTS)**
-Pine Script v5 transpiler & runtime for Node.js and the browser - 1:1 syntax compatibility  
-`TypeScript` `Node.js` `Browser`
+- ⚙️ **[sre](https://github.com/SmythOS/sre)**
+  SmythOS Runtime Environment - open-source runtime & SDK for agentic AI
 
-📊 **[QFChart](https://github.com/QuantForgeOrg)**
-Financial charting library - candlestick, indicator overlays, multi-pane, real-time streaming  
-`TypeScript` `Canvas`
+- 🏗️ **[smythos-studio](https://github.com/SmythOS/smythos-studio)**
+  Self-hosted visual agent builder - full runtime, vault, auth, and debugging tools
 
-⌨️ **[pinets-cli](https://github.com/QuantForgeOrg/pinets-cli)**
-Run Pine Script indicators from the terminal against live or custom data  
-`TypeScript` `CLI`
+- 📈 **[PineTS](https://github.com/alaa-eddine/PineTS)**
+  Pine Script v5 transpiler & runtime for Node.js and the browser - 1:1 syntax compatibility
 
-⚙️ **[sre](https://github.com/SmythOS/sre)**
-SmythOS Runtime Environment - open-source runtime & SDK for agentic AI  
-`TypeScript` `Docker`
+- 📊 **[QFChart](https://github.com/QuantForgeOrg)**
+  Financial charting library - candlestick, indicator overlays, multi-pane, real-time streaming
 
-🏗️ **[smythos-studio](https://github.com/SmythOS/smythos-studio)**
-Self-hosted visual agent builder - full runtime, vault, auth, and debugging tools  
-`TypeScript` `Docker`
+- ⌨️ **[pinets-cli](https://github.com/QuantForgeOrg/pinets-cli)**
+  Run Pine Script indicators from the terminal against live or custom data
 
-🐳 **[smyth-docker-mcp](https://github.com/SmythOS/smyth-docker-mcp)**
-Docker MCP server for SmythOS  
-`TypeScript` `MCP`
+- 🐳 **[smyth-docker-mcp](https://github.com/SmythOS/smyth-docker-mcp)**
+  Docker MCP server for SmythOS
 
-🧵 **[tokenloom](https://github.com/alaa-eddine/tokenloom)**
-Parse LLM/SSE text streams progressively into structured events - tags, code blocks, plugins  
-`TypeScript` `Node.js` `Browser`
+- 🧵 **[tokenloom](https://github.com/alaa-eddine/tokenloom)**
+  Parse LLM/SSE text streams progressively into structured events - tags, code blocks, plugins
 
-📄 **[iSafePDF](https://github.com/alaa-eddine/iSafePDF)**  
-Digital signing, encrypting, and managing metadata of PDF documents.
-`C#` `iTextSharp`
+- 📄 **[iSafePDF](https://github.com/alaa-eddine/iSafePDF)**  
+  Digital signing, encrypting, and managing metadata of PDF documents.
 
-🔗 **[Linc](https://github.com/alaa-eddine/Linc)**  
-LINC a simplistic blockchain miner for educational purposes.
-`TypeScript`
+- 🔗 **[Linc](https://github.com/alaa-eddine/Linc)**  
+  LINC a simplistic blockchain miner for educational purposes.
 
-⚡ **[eee](https://github.com/Ezelia/eee)**
-Ezelia Entities Engine - ECS library powering the Ezelia game engine  
-`TypeScript`
+- ⚡ **[eee](https://github.com/Ezelia/eee)**
+  Ezelia Entities Engine - ECS library powering the Ezelia game engine
 
-📐 **[atlas-parser](https://github.com/Ezelia/atlas-parser)**
-JavaScript atlas file parser  
-`JavaScript`
+- 📐 **[atlas-parser](https://github.com/Ezelia/atlas-parser)**
+  JavaScript atlas file parser
 
-🗣️ **[cordova-plugin-tts](https://github.com/Ezelia/cordova-plugin-tts)**
-Cordova Text-to-Speech plugin  
-`Java` `Cordova`
+- 🗣️ **[cordova-plugin-tts](https://github.com/Ezelia/cordova-plugin-tts)**
+  Cordova Text-to-Speech plugin
 
-🖼️ **[EZGUI](https://github.com/Ezelia/EZGUI)**
-The missing GUI library for Pixi.js and Phaser.io  
-`JavaScript` `Pixi.js` `Phaser`
+- 🖼️ **[EZGUI](https://github.com/Ezelia/EZGUI)**
+  The missing GUI library for Pixi.js and Phaser.io
 
-✨ **[EPSy](https://github.com/Ezelia/EPSy)**
-Particle system library for Phaser and Pixi.js  
-`JavaScript`
+- ✨ **[EPSy](https://github.com/Ezelia/EPSy)**
+  Particle system library for Phaser and Pixi.js
 
-🗺️ **[node-pathfinder](https://github.com/Ezelia/node-pathfinder)**
-Native Node.js module implementing A\* with Jump Point Search  
-`C++` `Node.js`
+- 🗺️ **[node-pathfinder](https://github.com/Ezelia/node-pathfinder)**
+  Native Node.js module implementing A\* with Jump Point Search
 
-🌐 **[eureca.io](https://github.com/Ezelia/eureca.io)**
-Bidirectional Node.js RPC - call server functions from the browser and vice versa  
-`Node.js` `WebSocket` `WebRTC`
+- 🌐 **[eureca.io](https://github.com/Ezelia/eureca.io)**
+  Bidirectional Node.js RPC - call server functions from the browser and vice versa
 
-🕹️ **[ChaotiCreatures-TS](https://github.com/Ezelia/ChaotiCreatures-TS)**
-Game jam entry for GameZanga 4  
-`JavaScript`
+- 🕹️ **[ChaotiCreatures-TS](https://github.com/Ezelia/ChaotiCreatures-TS)**
+  Game jam entry for GameZanga 4
 
-🔄 **[CocoonJS-WebWorker](https://github.com/Ezelia/CocoonJS-WebWorker)**
-WebWorker polyfill using CocoonJS WebView  
-`JavaScript`
+- 🔄 **[CocoonJS-WebWorker](https://github.com/Ezelia/CocoonJS-WebWorker)**
+  WebWorker polyfill using CocoonJS WebView
 
-🎮 **[Ezelia Engine](https://github.com/Ezelia)**
-HTML5 isometric RPG game engine - one of the first, optimized for desktop, mobile & tablet  
-`JavaScript` `HTML5 Canvas`
+- 🎮 **[Ezelia Engine](https://github.com/Ezelia)**
+  HTML5 isometric RPG game engine - one of the first, optimized for desktop, mobile & tablet
 
-🔀 **[ts2haxe](https://github.com/Ezelia/ts2haxe)**
-TypeScript → Haxe converter  
-`JavaScript`
+- 🔀 **[ts2haxe](https://github.com/Ezelia/ts2haxe)**
+  TypeScript → Haxe converter
 
-🔧 **[WorkerPool](https://github.com/Ezelia/WorkerPool)**
-Web workers pool for task distribution and maintenance  
-`JavaScript`
+- 🔧 **[WorkerPool](https://github.com/Ezelia/WorkerPool)** - Web workers pool for task distribution and maintenance
 
-💾 **[xos](https://github.com/alaa-eddine/xos)**  
-x86 hobby OS in C & Assembly - dual-mode 16/32-bit, custom bootloader, FAT12, multitasking  
-`C` `x86 Assembly`
+- 💾 **[xos](https://github.com/alaa-eddine/xos)** - x86 hobby OS in C & Assembly - dual-mode 16/32-bit, custom bootloader, FAT12, multitasking
 
 ---
 
