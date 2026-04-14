@@ -34,6 +34,9 @@ _Software Architect • Building cool things since 1998_
 
 ## Projects
 
+- 📈 **[PineTS](https://github.com/alaa-eddine/PineTS)**  (Aquired by LuxAlgo)
+  Pine Script v5 transpiler & runtime for Node.js and the browser - 1:1 syntax compatibility
+
 - 🔍 **[pdbg](https://github.com/vibe-archi/pdbg)**
   LLM-Human Pair debugging tool for Node.js & browser - CLI + web UI + AI agent support
 
@@ -42,9 +45,6 @@ _Software Architect • Building cool things since 1998_
 
 - 🏗️ **[smythos-studio](https://github.com/SmythOS/smythos-studio)**
   Self-hosted visual agent builder - full runtime, vault, auth, and debugging tools
-
-- 📈 **[PineTS](https://github.com/alaa-eddine/PineTS)**
-  Pine Script v5 transpiler & runtime for Node.js and the browser - 1:1 syntax compatibility
 
 - 📊 **[QFChart](https://github.com/QuantForgeOrg)**
   Financial charting library - candlestick, indicator overlays, multi-pane, real-time streaming
