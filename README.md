@@ -34,8 +34,7 @@ _Software Architect • Building cool things since 1998_
 
 ## Projects
 
-- 📈 **[PineTS](https://github.com/alaa-eddine/PineTS)**  (Aquired by LuxAlgo)
-  Pine Script v5 transpiler & runtime for Node.js and the browser - 1:1 syntax compatibility
+- 📈 **[PineTS](https://github.com/alaa-eddine/PineTS)** Pine Script v5 transpiler & runtime for Node.js and the browser - 1:1 syntax compatibility | [ Aquired by LuxAlgo ] 
 
 - 🔍 **[pdbg](https://github.com/vibe-archi/pdbg)**
   LLM-Human Pair debugging tool for Node.js & browser - CLI + web UI + AI agent support
