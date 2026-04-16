@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm <a href="https://kad.me">AK</a> (Alaa-eddine Kaddouri)
 
-_Software Architect • Building cool things since 1998_
+👨🏽‍💻 Software Architect • 🏗️ Building cool things since 1998 • 🌍 France 🇫🇷 / Morocco 🇲🇦
 
 </div>
 
@@ -44,9 +44,6 @@ _Software Architect • Building cool things since 1998_
 
 - 🏗️ **[smythos-studio](https://github.com/SmythOS/smythos-studio)**
   Self-hosted visual agent builder - full runtime, vault, auth, and debugging tools
-
-- 📊 **[QFChart](https://github.com/QuantForgeOrg)**
-  Financial charting library - candlestick, indicator overlays, multi-pane, real-time streaming
 
 - ⌨️ **[pinets-cli](https://github.com/QuantForgeOrg/pinets-cli)**
   Run Pine Script indicators from the terminal against live or custom data
