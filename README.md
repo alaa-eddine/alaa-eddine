@@ -33,8 +33,9 @@
 </div>
 
 ## Projects
+- 📈 **[Vela](https://github.com/LuxAlgo/Vela)** Fast and modern interactive financial charts powered by WebGL2 blazing fast renderer.
 
-- 📈 **[PineTS](https://github.com/alaa-eddine/PineTS)** Pine Script v5 transpiler & runtime for Node.js and the browser - 1:1 syntax compatibility | [ Aquired by LuxAlgo ] 
+- 🧮 **[PineTS](https://github.com/LuxAlgo/PineTS)** Pine Script v5 transpiler & runtime for Node.js and the browser - 1:1 syntax compatibility | [ Aquired by LuxAlgo ] 
 
 - 🔍 **[pdbg](https://github.com/vibe-archi/pdbg)**
   LLM-Human Pair debugging tool for Node.js & browser - CLI + web UI + AI agent support
